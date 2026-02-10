@@ -6,8 +6,25 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
+| [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
+## Backtracking
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->

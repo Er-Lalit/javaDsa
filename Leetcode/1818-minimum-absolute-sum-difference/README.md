@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-absolute-sum-difference">1946. Minimum Absolute Sum Difference</a></h2><h3>Medium</h3><hr><p>You are given two positive integer arrays <code>nums1</code> and <code>nums2</code>, both of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-absolute-sum-difference">1818. Minimum Absolute Sum Difference</a></h2><h3>Medium</h3><hr><p>You are given two positive integer arrays <code>nums1</code> and <code>nums2</code>, both of length <code>n</code>.</p>
 
 <p>The <strong>absolute sum difference</strong> of arrays <code>nums1</code> and <code>nums2</code> is defined as the <strong>sum</strong> of <code>|nums1[i] - nums2[i]|</code> for each <code>0 &lt;= i &lt; n</code> (<strong>0-indexed</strong>).</p>
 

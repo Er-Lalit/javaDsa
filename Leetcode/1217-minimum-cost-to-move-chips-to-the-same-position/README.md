@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position">1329. Minimum Cost to Move Chips to The Same Position</a></h2><h3>Easy</h3><hr><p>We have <code>n</code> chips, where the position of the <code>i<sup>th</sup></code> chip is <code>position[i]</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position">1217. Minimum Cost to Move Chips to The Same Position</a></h2><h3>Easy</h3><hr><p>We have <code>n</code> chips, where the position of the <code>i<sup>th</sup></code> chip is <code>position[i]</code>.</p>
 
 <p>We need to move all the chips to <strong>the same position</strong>. In one step, we can change the position of the <code>i<sup>th</sup></code> chip from <code>position[i]</code> to:</p>
 

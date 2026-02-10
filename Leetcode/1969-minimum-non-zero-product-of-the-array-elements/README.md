@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements">2100. Minimum Non-Zero Product of the Array Elements</a></h2><h3>Medium</h3><hr><p>You are given a positive integer <code>p</code>. Consider an array <code>nums</code> (<strong>1-indexed</strong>) that consists of the integers in the <strong>inclusive</strong> range <code>[1, 2<sup>p</sup> - 1]</code> in their binary representations. You are allowed to do the following operation <strong>any</strong> number of times:</p>
+<h2><a href="https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements">1969. Minimum Non-Zero Product of the Array Elements</a></h2><h3>Medium</h3><hr><p>You are given a positive integer <code>p</code>. Consider an array <code>nums</code> (<strong>1-indexed</strong>) that consists of the integers in the <strong>inclusive</strong> range <code>[1, 2<sup>p</sup> - 1]</code> in their binary representations. You are allowed to do the following operation <strong>any</strong> number of times:</p>
 
 <ul>
 	<li>Choose two elements <code>x</code> and <code>y</code> from <code>nums</code>.</li>

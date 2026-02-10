@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reach-a-number">755. Reach a Number</a></h2><h3>Medium</h3><hr><p>You are standing at position <code>0</code> on an infinite number line. There is a destination at position <code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/reach-a-number">754. Reach a Number</a></h2><h3>Medium</h3><hr><p>You are standing at position <code>0</code> on an infinite number line. There is a destination at position <code>target</code>.</p>
 
 <p>You can make some number of moves <code>numMoves</code> so that:</p>
 

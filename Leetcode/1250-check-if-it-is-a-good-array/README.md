@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-it-is-a-good-array">1372. Check If It Is a Good Array</a></h2><h3>Hard</h3><hr><p>Given an array <code>nums</code> of&nbsp;positive integers. Your task is to select some subset of <code>nums</code>, multiply each element by an integer and add all these numbers.&nbsp;The array is said to be&nbsp;<strong>good&nbsp;</strong>if you can obtain a sum of&nbsp;<code>1</code>&nbsp;from the array by any possible subset and multiplicand.</p>
+<h2><a href="https://leetcode.com/problems/check-if-it-is-a-good-array">1250. Check If It Is a Good Array</a></h2><h3>Hard</h3><hr><p>Given an array <code>nums</code> of&nbsp;positive integers. Your task is to select some subset of <code>nums</code>, multiply each element by an integer and add all these numbers.&nbsp;The array is said to be&nbsp;<strong>good&nbsp;</strong>if you can obtain a sum of&nbsp;<code>1</code>&nbsp;from the array by any possible subset and multiplicand.</p>
 
 <p>Return&nbsp;<code>True</code>&nbsp;if the array is <strong>good&nbsp;</strong>otherwise&nbsp;return&nbsp;<code>False</code>.</p>
 

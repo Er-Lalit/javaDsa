@@ -1,3 +1,5 @@
+import java.util.TreeSet;
+
 class ExamRoom {
     int size=0;
     TreeSet<Integer> seats;

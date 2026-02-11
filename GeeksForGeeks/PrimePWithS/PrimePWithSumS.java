@@ -1,4 +1,6 @@
+
 import java.util.*;
+
 public class PrimePWithSumS {
     public static void main(String[] args) {
         int s=23;

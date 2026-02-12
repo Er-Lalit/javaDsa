@@ -1,4 +1,4 @@
-Equal Partition
+<a href="https://www.geeksforgeeks.org/dsa/tug-of-war/">Equal Partition</a>
 Last Updated : 30 Sep, 2025
 Given an integer array arr[], divide it into two subsets such that the absolute difference between their sums is zero (i.e., both subsets have the same sum).
 

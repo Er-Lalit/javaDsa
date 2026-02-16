@@ -10,6 +10,7 @@
 | [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
+| [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
+| [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
 | ------- |
@@ -86,4 +88,16 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->

@@ -1,3 +1,5 @@
+package GeeksForGeeks.HamiltonianCycle;
+
 import java.util.*;
 public class HmiltonionCycle {
     public static void main(String[] args) {

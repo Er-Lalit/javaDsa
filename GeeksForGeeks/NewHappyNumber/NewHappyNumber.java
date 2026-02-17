@@ -1,4 +1,4 @@
-package NextHappyNumber;
+package GeeksForGeeks.NewHappyNumber;
 import java.util.*;
 class Solution {
 

@@ -1,33 +1,37 @@
 class Solution {
-    public boolean isConcatenated(String word, Set<String> st, Map<String, Boolean> map) {
+    public List<String> findAllConcatenatedWordsInADict(String[] words) {
+        List<String> ans = new ArrayList<>();
+        Set<String> set=new HashSet<>(Arrays.asList(words));
+        Map<String,Boolean> map=new HashMap<>();
+        for(int i=0;i<words.length;i++)
+        {
+            if(isConcatinate(words[i],set,map))
+            {
+                ans.add(words[i]);
+            }
+        }
+        return ans;
+
+    }
+    static boolean isConcatinate(String word,Set<String> set,Map<String,Boolean> map)
+    {
         if(map.containsKey(word))
+        {
             return map.get(word);
-        int l = word.length();
-        for(int i = 0 ; i< l; i++){
-            String prefix = word.substring(0, i+1);
-            String suffix = word.substring(i+1, l);
-            if((st.contains(prefix) && st.contains(suffix)) || (st.contains(prefix) && isConcatenated(suffix, st, map))){
-                map.put(word, true);
+        }
+        for(int i=0;i<word.length();i++)
+        {
+            String prefix=word.substring(0,i+1);
+            String sufix=word.substring(i+1,word.length());
+            if(set.contains(prefix) && set.contains(sufix) || set.contains(prefix) && isConcatinate(sufix,set,map))
+            {
+                map.put(word,true);
                 return true;
             }
         }
-        map.put(word, false);
+        map.put(word,false);
         return false;
     }
-    public List<String> findAllConcatenatedWordsInADict(String[] words) {
-        int n = words.length;
-        Set<String> st = new HashSet<>();
-        Map<String, Boolean> map = new HashMap<>();
-        for(String s : words)
-            st.add(s);
-        List<String> result = new ArrayList<>();
-        for(int i = 0 ; i < n; i++){
-            String word = words[i];
-            
-            if(isConcatenated(word, st, map)){
-                result.add(word);
-            }
-        }
-        return result;
-    }
+
+   
 }

@@ -13,6 +13,7 @@
 | [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Er-Lalit/javaDsa/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Backtracking
 |  |
 | ------- |

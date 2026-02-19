@@ -9,6 +9,7 @@
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Er-Lalit/javaDsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Er-Lalit/javaDsa/tree/master/0300-longest-increasing-subsequence) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
@@ -26,6 +27,7 @@
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Er-Lalit/javaDsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Er-Lalit/javaDsa/tree/master/0300-longest-increasing-subsequence) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Er-Lalit/javaDsa/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Er-Lalit/javaDsa/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

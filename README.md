@@ -33,6 +33,7 @@
 | [0509-fibonacci-number](https://github.com/Er-Lalit/javaDsa/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Er-Lalit/javaDsa/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Backtracking
 |  |
@@ -132,4 +133,8 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
+## Prefix Sum
+|  |
+| ------- |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Er-Lalit/javaDsa/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 <!---LeetCode Topics End-->

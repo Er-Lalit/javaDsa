@@ -13,6 +13,7 @@
 | [0213-house-robber-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Er-Lalit/javaDsa/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Er-Lalit/javaDsa/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Er-Lalit/javaDsa/tree/master/0368-largest-divisible-subset) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Er-Lalit/javaDsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Er-Lalit/javaDsa/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Er-Lalit/javaDsa/tree/master/0368-largest-divisible-subset) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
@@ -117,6 +120,7 @@
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Er-Lalit/javaDsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Er-Lalit/javaDsa/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -145,6 +149,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Er-Lalit/javaDsa/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Greedy
 |  |

@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Er-Lalit/javaDsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0213-house-robber-ii) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/Er-Lalit/javaDsa/tree/master/0368-largest-divisible-subset) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |

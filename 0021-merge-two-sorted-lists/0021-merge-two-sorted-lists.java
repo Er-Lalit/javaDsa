@@ -46,17 +46,19 @@ class Solution {
                 }
             }
         }
-        // copy remaining element 
-// attach remaining nodes
-if(list1 != null) {
-    if(head == null) head = list1; // if head was null, assign it
-    else temp.next = list1;
-}
+ 
+        // attach remaining nodes
+        if(list1 != null) 
+        {
+          if(head == null) head = list1; // if head was null, assign it
+          else temp.next = list1;
+        }
 
-if(list2 != null) {
-    if(head == null) head = list2; // if head was null, assign it
-    else temp.next = list2;
-}
+        if(list2 != null)
+        {
+          if(head == null) head = list2; // if head was null, assign it
+          else temp.next = list2;
+        }
         return head;
         
     }

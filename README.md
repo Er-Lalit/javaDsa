@@ -85,6 +85,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Er-Lalit/javaDsa/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Er-Lalit/javaDsa/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |
@@ -176,5 +177,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Er-Lalit/javaDsa/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Er-Lalit/javaDsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->

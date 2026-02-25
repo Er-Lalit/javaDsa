@@ -30,6 +30,7 @@
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Er-Lalit/javaDsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -123,6 +124,7 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Er-Lalit/javaDsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Er-Lalit/javaDsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Er-Lalit/javaDsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
@@ -182,4 +184,5 @@
 | [0021-merge-two-sorted-lists](https://github.com/Er-Lalit/javaDsa/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Er-Lalit/javaDsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Er-Lalit/javaDsa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

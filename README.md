@@ -92,6 +92,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Er-Lalit/javaDsa/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Er-Lalit/javaDsa/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/Er-Lalit/javaDsa/tree/master/0509-fibonacci-number) |
@@ -193,6 +194,7 @@
 | [0141-linked-list-cycle](https://github.com/Er-Lalit/javaDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Er-Lalit/javaDsa/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |

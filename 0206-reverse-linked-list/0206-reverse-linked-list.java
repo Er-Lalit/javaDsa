@@ -9,6 +9,7 @@
  * }
  */
 class Solution {
+    // this was the non recursive approach 
     public ListNode reverseList(ListNode head) {
         if(head==null)
         {

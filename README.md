@@ -31,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Er-Lalit/javaDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Er-Lalit/javaDsa/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -115,6 +116,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/Er-Lalit/javaDsa/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Er-Lalit/javaDsa/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Er-Lalit/javaDsa/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Er-Lalit/javaDsa/tree/master/0368-largest-divisible-subset) |
@@ -126,6 +128,7 @@
 | [0141-linked-list-cycle](https://github.com/Er-Lalit/javaDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Er-Lalit/javaDsa/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Er-Lalit/javaDsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Er-Lalit/javaDsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 ## Trie

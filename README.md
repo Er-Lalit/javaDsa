@@ -33,6 +33,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Er-Lalit/javaDsa/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Er-Lalit/javaDsa/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/Er-Lalit/javaDsa/tree/master/1106-parsing-a-boolean-expression) |
 ## Recursion
 |  |
@@ -94,6 +96,7 @@
 | [0060-permutation-sequence](https://github.com/Er-Lalit/javaDsa/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/Er-Lalit/javaDsa/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/Er-Lalit/javaDsa/tree/master/1106-parsing-a-boolean-expression) |
@@ -196,6 +199,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Er-Lalit/javaDsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |

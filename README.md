@@ -31,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Er-Lalit/javaDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Er-Lalit/javaDsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Er-Lalit/javaDsa/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Er-Lalit/javaDsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
@@ -86,6 +87,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Er-Lalit/javaDsa/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
 | [1106-parsing-a-boolean-expression](https://github.com/Er-Lalit/javaDsa/tree/master/1106-parsing-a-boolean-expression) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Er-Lalit/javaDsa/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Er-Lalit/javaDsa/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Er-Lalit/javaDsa/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
@@ -197,6 +200,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Er-Lalit/javaDsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Er-Lalit/javaDsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Er-Lalit/javaDsa/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |

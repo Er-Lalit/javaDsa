@@ -148,6 +148,7 @@
 | [0202-happy-number](https://github.com/Er-Lalit/javaDsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Er-Lalit/javaDsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
+| [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
 ## Trie
 |  |
 | ------- |
@@ -215,10 +216,19 @@
 | [0206-reverse-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Er-Lalit/javaDsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Er-Lalit/javaDsa/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->

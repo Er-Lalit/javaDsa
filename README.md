@@ -167,6 +167,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -222,6 +223,7 @@
 | [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0876-middle-of-the-linked-list) |
@@ -240,4 +242,8 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

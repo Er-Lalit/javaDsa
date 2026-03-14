@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Er-Lalit/javaDsa/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Er-Lalit/javaDsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Er-Lalit/javaDsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Er-Lalit/javaDsa/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Er-Lalit/javaDsa/tree/master/0143-reorder-list) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Er-Lalit/javaDsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Er-Lalit/javaDsa/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Er-Lalit/javaDsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Er-Lalit/javaDsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Er-Lalit/javaDsa/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |

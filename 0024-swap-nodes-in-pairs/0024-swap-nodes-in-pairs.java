@@ -17,11 +17,11 @@ class Solution {
         ListNode prev=null;
         ListNode curr=head;
         ListNode next=curr.next;
-        while(curr!=null && curr.next!=null)
+        while(curr!=null)
         {
             ListNode newEnd=curr;
             ListNode last=prev;
-            for(int i=0;i<2;i++){
+            for(int i=0;curr!=null && i<2;i++){
                 curr.next=prev;
                 prev=curr;
                 curr=next;

@@ -247,6 +247,7 @@
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Er-Lalit/javaDsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
+| [1669-merge-in-between-linked-lists](https://github.com/Er-Lalit/javaDsa/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Er-Lalit/javaDsa/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Merge Sort

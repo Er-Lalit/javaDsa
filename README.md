@@ -247,6 +247,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Er-Lalit/javaDsa/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |

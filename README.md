@@ -21,6 +21,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1019-next-greater-node-in-linked-list) |
+| [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -44,6 +45,7 @@
 | [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -59,6 +61,7 @@
 | [0509-fibonacci-number](https://github.com/Er-Lalit/javaDsa/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Er-Lalit/javaDsa/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -92,6 +95,7 @@
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [0761-special-binary-string](https://github.com/Er-Lalit/javaDsa/tree/master/0761-special-binary-string) |
+| [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/Er-Lalit/javaDsa/tree/master/1106-parsing-a-boolean-expression) |
 ## Stack
 |  |
@@ -138,6 +142,7 @@
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-special-binary-string](https://github.com/Er-Lalit/javaDsa/tree/master/0761-special-binary-string) |
+| [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +170,7 @@
 | [0217-contains-duplicate](https://github.com/Er-Lalit/javaDsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
+| [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Trie
 |  |

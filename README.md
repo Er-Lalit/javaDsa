@@ -91,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Er-Lalit/javaDsa/tree/master/0038-count-and-say) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |

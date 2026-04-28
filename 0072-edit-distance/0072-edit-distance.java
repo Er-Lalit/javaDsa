@@ -1,28 +1,50 @@
 class Solution {
-    static int dp[][];
-    public int minDistance(String word1, String word2) {
-        dp=new int[word1.length()+1][word2.length()+1];
-        for(int i=0;i<dp.length;i++)
-        {
-            Arrays.fill(dp[i],-1);
-        }
-        return solve(word1,word2,word1.length(),word2.length());
+    // static int dp[][];
+    // public int minDistance(String word1, String word2) {
+    //     dp=new int[word1.length()+1][word2.length()+1];
+    //     for(int i=0;i<dp.length;i++)
+    //     {
+    //         Arrays.fill(dp[i],-1);
+    //     }
+    //     return solve(word1,word2,word1.length(),word2.length());
         
-    }
-    static int solve(String s1,String s2,int i,int j)
-    {
-        if(i==0 || j==0)
+    // }
+    // static int solve(String s1,String s2,int i,int j)
+    // {
+    //     if(i==0 || j==0)
+    //     {
+    //         return i+j;
+    //     }
+    //     if(dp[i][j]!=-1)
+    //     {
+    //         return dp[i][j];
+    //     }
+    //     if(s1.charAt(i-1)==s2.charAt(j-1))
+    //     {
+    //         return solve(s1,s2,i-1,j-1);
+    //     }
+    //   return  dp[i][j]= Math.min(1+solve(s1,s2,i,j-1),Math.min(1+solve(s1,s2,i-1,j),1+solve(s1,s2,i-1,j-1)));
+    // }
+    public int minDistance(String word1, String word2) {
+        int dp[][]=new int[word1.length()+1][word2.length()+1];
+        for(int i=0;i<=word1.length();i++)
         {
-            return i+j;
+            for(int j=0;j<=word2.length();j++)
+            {
+                if(i==0 || j==0)
+                {
+                    dp[i][j]=i+j;
+                }
+                else if(word1.charAt(i-1)==word2.charAt(j-1))
+                {
+                    dp[i][j]=dp[i-1][j-1];
+                }
+                else
+                {
+                    dp[i][j]=1+Math.min(dp[i-1][j-1],Math.min(dp[i][j-1],dp[i-1][j]));
+                }
+            }
         }
-        if(dp[i][j]!=-1)
-        {
-            return dp[i][j];
-        }
-        if(s1.charAt(i-1)==s2.charAt(j-1))
-        {
-            return solve(s1,s2,i-1,j-1);
-        }
-      return  dp[i][j]= Math.min(1+solve(s1,s2,i,j-1),Math.min(1+solve(s1,s2,i-1,j),1+solve(s1,s2,i-1,j-1)));
+        return dp[word1.length()][word2.length()];
     }
 }

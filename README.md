@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Er-Lalit/javaDsa/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Er-Lalit/javaDsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0213-house-robber-ii) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Er-Lalit/javaDsa/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |

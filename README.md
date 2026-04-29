@@ -56,6 +56,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Er-Lalit/javaDsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/Er-Lalit/javaDsa/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Er-Lalit/javaDsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0213-house-robber-ii) |
@@ -77,6 +78,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Er-Lalit/javaDsa/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
@@ -102,6 +104,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Er-Lalit/javaDsa/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/Er-Lalit/javaDsa/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |

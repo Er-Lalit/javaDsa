@@ -28,7 +28,7 @@ class Solution {
             return  2+solve(s,i+1,j-1);
         }
 
-        return  dp[i][j]=Math.max(solve(s,i+1,j),solve(s,i,j-1));
+        return dp[i][j]=Math.max(solve(s,i+1,j),solve(s,i,j-1));
         
     }
 }

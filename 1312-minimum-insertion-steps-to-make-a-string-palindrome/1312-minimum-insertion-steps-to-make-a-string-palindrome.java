@@ -1,31 +1,58 @@
 class Solution {
-    static int dp[][];
+    // static int dp[][];
+    // public int minInsertions(String s) {
+    //     dp=new int[s.length()+1][s.length()+1];
+    //     for(int i=0;i<dp.length;i++)
+    //     {
+    //         Arrays.fill(dp[i],-1);
+    //     }
+    //     return solve(s,0,s.length()-1);
+        
+    // }
+    // static int solve(String s,int i ,int j)
+    // {
+    //     if(i>=j)
+    //     {
+    //         return 0;
+    //     }
+    //     if(dp[i][j]!=-1)
+    //     {
+    //         return dp[i][j];
+    //     }
+    //     if(s.charAt(i)==s.charAt(j))
+    //     {
+    //         return solve(s,i+1,j-1);
+    //     }
+    //     else
+    //     {
+    //         return dp[i][j]= Math.min(1+solve(s,i+1,j),1+solve(s,i,j-1));
+    //     }
+    // }
     public int minInsertions(String s) {
-        dp=new int[s.length()+1][s.length()+1];
-        for(int i=0;i<dp.length;i++)
+    int dp[][]=new int[s.length()][s.length()];
+    for(int l=1;l<=s.length();l++)
+    {
+        for(int i=0;l+i-1<s.length();i++)
         {
-            Arrays.fill(dp[i],-1);
+            int j=l+i-1;
+            if(i==j)
+            {
+                dp[i][j]=0;
+            }
+            else
+            {
+                if(s.charAt(i)==s.charAt(j))
+                {
+                    dp[i][j]=dp[i+1][j-1];
+                }
+                else
+                {
+                    dp[i][j]=Math.min(1+dp[i+1][j],1+dp[i][j-1]);
+                }
+            }
         }
-        return solve(s,0,s.length()-1);
         
     }
-    static int solve(String s,int i ,int j)
-    {
-        if(i>=j)
-        {
-            return 0;
-        }
-        if(dp[i][j]!=-1)
-        {
-            return dp[i][j];
-        }
-        if(s.charAt(i)==s.charAt(j))
-        {
-            return solve(s,i+1,j-1);
-        }
-        else
-        {
-            return dp[i][j]= Math.min(1+solve(s,i+1,j),1+solve(s,i,j-1));
-        }
+    return dp[0][s.length()-1];
     }
 }

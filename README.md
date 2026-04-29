@@ -30,6 +30,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Er-Lalit/javaDsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Er-Lalit/javaDsa/tree/master/0061-rotate-list) |
@@ -52,6 +53,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Er-Lalit/javaDsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
@@ -95,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Er-Lalit/javaDsa/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |

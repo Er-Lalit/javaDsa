@@ -1,4 +1,4 @@
-package Codeforces;
+package Codeforces.KarenandCoffee;
 
 import java.util.*;
 class KarenandCoffee

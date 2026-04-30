@@ -206,6 +206,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
@@ -321,4 +322,16 @@
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1019-next-greater-node-in-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

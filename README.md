@@ -192,6 +192,7 @@
 | [0217-contains-duplicate](https://github.com/Er-Lalit/javaDsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Trie
@@ -211,10 +212,12 @@
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -329,6 +332,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -337,4 +341,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->

@@ -192,6 +192,7 @@
 | [0217-contains-duplicate](https://github.com/Er-Lalit/javaDsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/Er-Lalit/javaDsa/tree/master/0460-lfu-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -279,6 +280,7 @@
 | [0382-linked-list-random-node](https://github.com/Er-Lalit/javaDsa/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Er-Lalit/javaDsa/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Er-Lalit/javaDsa/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0876-middle-of-the-linked-list) |
@@ -300,6 +302,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Er-Lalit/javaDsa/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/Er-Lalit/javaDsa/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
 ## Heap (Priority Queue)
@@ -311,6 +314,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Er-Lalit/javaDsa/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/Er-Lalit/javaDsa/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |

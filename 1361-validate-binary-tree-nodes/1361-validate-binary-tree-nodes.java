@@ -59,11 +59,12 @@ class Solution {
                 continue;
             }
             for (int i : ls) {
-                if(!visited[i])
+                if(visited[i])
                 {
-                    visited[i]=true;
-                    q.offer(i);
+                   return false;
                 }
+                visited[i]=true;
+                q.offer(i);
                 
             }
         }

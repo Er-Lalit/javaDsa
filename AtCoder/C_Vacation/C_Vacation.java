@@ -13,41 +13,21 @@ public class C_Vacation{
             arr[i][2]=in.nextInt();
             
         }
-        solve(0, arr, 0, false, false, false);
-        System.out.println(Max);
-
-        
-    }
-    static void solve(int sum,int arr[][],int idx,boolean f1,boolean f2,boolean f3)
-    {
-        if(idx==arr.length)
+        if(n==1)
         {
-            Max=Math.max(sum, Max);
+            System.out.println(Math.max(arr[0][0], Math.max(arr[0][1],arr[0][2])));
             return;
         }
-        for(int i=0;i<3;i++)
+        
+        for(int idx=1;idx<n;idx++)
         {
-            if(i==0 && f1 || i==1 && f2 || i==2 && f3)
-            {
-                continue;
-            }
-            boolean Nf1=false;
-            boolean Nf2=false;
-            boolean Nf3=false;
-            if(i==0)
-            {
-                Nf1=true;
-            }
-            else if(i==1)
-            {
-                Nf2=true;
-            }
-            else
-            {
-                Nf3=true;
-            }
-            solve(sum+arr[idx][i],arr, idx+1, Nf1, Nf2, Nf3);
-           
+           arr[idx][0]+=Math.max(arr[idx-1][1], arr[idx-1][2]);
+           arr[idx][1]+=Math.max(arr[idx-1][0], arr[idx-1][2]);
+           arr[idx][2]+=Math.max(arr[idx-1][0], arr[idx-1][1]);
+           Max=Math.max(Max,Math.max(arr[idx][0], Math.max(arr[idx][1], arr[idx][2])));
         }
+        System.out.println(Max);
+        
+        
     }
 }

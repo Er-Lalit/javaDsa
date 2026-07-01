@@ -57,12 +57,12 @@ public class Boredom
             points[x]+=x;
             maxValue=Math.max(x,maxValue);
         }
-        long ans=Math.min
+        long ans=Integer.MIN_VALUE;
         long dp[]=new long[maxValue+3];
-        for(int i=maxValue;i<=0;i--)
-        {
-            
+        for(int i = maxValue; i >= 0; i--) {
+          dp[i] = Math.max(dp[i+1], points[i] + dp[i+2]);
         }
+        System.out.println(dp[0]);
     }
 }
 

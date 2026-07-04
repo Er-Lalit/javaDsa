@@ -88,7 +88,7 @@ public class Vacations {
             arr[i]=in.nextInt();
         }
         dp=new int[n+1][2][2];
-        for(int i=n;i>=0;i--)
+        for(int i=n-1;i>=0;i--)
         {
             for(int g=0;g<2;g++)
             {
@@ -96,7 +96,7 @@ public class Vacations {
                 {
                     if(arr[i]==0)
                     {
-                        dp[i][g][c]=1+dp[i+1][g][c];
+                        dp[i][g][c]=1+dp[i+1][0][0];
                     }
                     else if(arr[i]==1)
                     {

@@ -1,4 +1,4 @@
-<a href="https://atcoder.jp/contests/dp/tasks/dp_f">F - LCS</a>
+<p><a href="https://atcoder.jp/contests/dp/tasks/dp_f">F - LCS</a></p>
 Time Limit: 2 sec / Memory Limit: 1024 MiB
 
 Score : 

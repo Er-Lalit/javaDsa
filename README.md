@@ -22,6 +22,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0875-koko-eating-bananas](https://github.com/Er-Lalit/javaDsa/tree/master/0875-koko-eating-bananas) |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Er-Lalit/javaDsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
@@ -245,6 +246,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Er-Lalit/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Er-Lalit/javaDsa/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Er-Lalit/javaDsa/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Er-Lalit/javaDsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Greedy

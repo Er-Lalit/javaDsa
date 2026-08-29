@@ -222,6 +222,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
+| [0543-diameter-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Er-Lalit/javaDsa/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -360,6 +361,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Er-Lalit/javaDsa/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -374,6 +376,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Er-Lalit/javaDsa/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -391,4 +394,8 @@
 |  |
 | ------- |
 | [2851-string-transformation](https://github.com/Er-Lalit/javaDsa/tree/master/2851-string-transformation) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

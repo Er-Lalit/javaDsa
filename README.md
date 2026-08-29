@@ -222,6 +222,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0543-diameter-of-binary-tree) |
@@ -365,6 +366,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Er-Lalit/javaDsa/tree/master/0687-longest-univalue-path) |
@@ -381,6 +383,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Er-Lalit/javaDsa/tree/master/0687-longest-univalue-path) |
@@ -403,4 +406,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Er-Lalit/javaDsa/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Er-Lalit/javaDsa/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Er-Lalit/javaDsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Er-Lalit/javaDsa/tree/master/0061-rotate-list) |
@@ -161,6 +163,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Er-Lalit/javaDsa/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Er-Lalit/javaDsa/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Er-Lalit/javaDsa/tree/master/0148-sort-list) |

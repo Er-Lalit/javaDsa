@@ -47,6 +47,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Er-Lalit/javaDsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Er-Lalit/javaDsa/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Er-Lalit/javaDsa/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Er-Lalit/javaDsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Er-Lalit/javaDsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0234-palindrome-linked-list) |
@@ -114,6 +115,7 @@
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Er-Lalit/javaDsa/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Er-Lalit/javaDsa/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |
 | [0472-concatenated-words](https://github.com/Er-Lalit/javaDsa/tree/master/0472-concatenated-words) |

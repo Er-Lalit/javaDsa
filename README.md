@@ -122,6 +122,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Er-Lalit/javaDsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Er-Lalit/javaDsa/tree/master/0647-palindromic-substrings) |
 | [0761-special-binary-string](https://github.com/Er-Lalit/javaDsa/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/Er-Lalit/javaDsa/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Er-Lalit/javaDsa/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/Er-Lalit/javaDsa/tree/master/1106-parsing-a-boolean-expression) |
@@ -416,6 +417,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Er-Lalit/javaDsa/tree/master/0796-rotate-string) |
 | [2851-string-transformation](https://github.com/Er-Lalit/javaDsa/tree/master/2851-string-transformation) |
 ## DP on Trees
 |  |

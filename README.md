@@ -194,6 +194,7 @@
 | [0509-fibonacci-number](https://github.com/Er-Lalit/javaDsa/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Er-Lalit/javaDsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2851-string-transformation](https://github.com/Er-Lalit/javaDsa/tree/master/2851-string-transformation) |
+| [3871-count-commas-in-range-ii](https://github.com/Er-Lalit/javaDsa/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
 |  |
 | ------- |

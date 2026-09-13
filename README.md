@@ -60,6 +60,7 @@
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Er-Lalit/javaDsa/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [1106-parsing-a-boolean-expression](https://github.com/Er-Lalit/javaDsa/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Er-Lalit/javaDsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Er-Lalit/javaDsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Er-Lalit/javaDsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2851-string-transformation](https://github.com/Er-Lalit/javaDsa/tree/master/2851-string-transformation) |
 ## Stack
 |  |
@@ -281,6 +283,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Er-Lalit/javaDsa/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Er-Lalit/javaDsa/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Er-Lalit/javaDsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Er-Lalit/javaDsa/tree/master/0131-palindrome-partitioning) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Er-Lalit/javaDsa/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Er-Lalit/javaDsa/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Er-Lalit/javaDsa/tree/master/0131-palindrome-partitioning) |
@@ -140,6 +142,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Er-Lalit/javaDsa/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
@@ -461,4 +464,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Er-Lalit/javaDsa/tree/master/0319-bulb-switcher) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

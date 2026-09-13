@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Er-Lalit/javaDsa/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Er-Lalit/javaDsa/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Er-Lalit/javaDsa/tree/master/0131-palindrome-partitioning) |

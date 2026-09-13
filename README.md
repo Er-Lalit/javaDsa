@@ -189,6 +189,7 @@
 | [0202-happy-number](https://github.com/Er-Lalit/javaDsa/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |
+| [0319-bulb-switcher](https://github.com/Er-Lalit/javaDsa/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Er-Lalit/javaDsa/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/Er-Lalit/javaDsa/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0445-add-two-numbers-ii) |
@@ -446,4 +447,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Er-Lalit/javaDsa/tree/master/0207-course-schedule) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Er-Lalit/javaDsa/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

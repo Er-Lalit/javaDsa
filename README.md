@@ -7,6 +7,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Er-Lalit/javaDsa/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Er-Lalit/javaDsa/tree/master/0169-majority-element) |
@@ -105,6 +106,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/0054-spiral-matrix) |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
@@ -258,6 +260,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/0054-spiral-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Er-Lalit/javaDsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search

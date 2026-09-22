@@ -7,6 +7,8 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Er-Lalit/javaDsa/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Er-Lalit/javaDsa/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Er-Lalit/javaDsa/tree/master/0088-merge-sorted-array) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Er-Lalit/javaDsa/tree/master/0169-majority-element) |
@@ -30,6 +32,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Er-Lalit/javaDsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -58,10 +61,12 @@
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Er-Lalit/javaDsa/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Er-Lalit/javaDsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Er-Lalit/javaDsa/tree/master/0131-palindrome-partitioning) |
@@ -105,6 +110,8 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0059-spiral-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
@@ -112,6 +119,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Er-Lalit/javaDsa/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Er-Lalit/javaDsa/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Er-Lalit/javaDsa/tree/master/0131-palindrome-partitioning) |
@@ -129,10 +138,12 @@
 | [1106-parsing-a-boolean-expression](https://github.com/Er-Lalit/javaDsa/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Er-Lalit/javaDsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Er-Lalit/javaDsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Er-Lalit/javaDsa/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2851-string-transformation](https://github.com/Er-Lalit/javaDsa/tree/master/2851-string-transformation) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Er-Lalit/javaDsa/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
@@ -189,6 +200,7 @@
 | [0202-happy-number](https://github.com/Er-Lalit/javaDsa/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Er-Lalit/javaDsa/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Er-Lalit/javaDsa/tree/master/0273-integer-to-english-words) |
+| [0319-bulb-switcher](https://github.com/Er-Lalit/javaDsa/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Er-Lalit/javaDsa/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/Er-Lalit/javaDsa/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0445-add-two-numbers-ii) |
@@ -214,6 +226,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 ## Trie
 |  |
 | ------- |
@@ -229,6 +242,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/Er-Lalit/javaDsa/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0207-course-schedule](https://github.com/Er-Lalit/javaDsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0210-course-schedule-ii) |
@@ -241,22 +255,28 @@
 | [0687-longest-univalue-path](https://github.com/Er-Lalit/javaDsa/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1367-linked-list-in-binary-tree) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Er-Lalit/javaDsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Er-Lalit/javaDsa/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Er-Lalit/javaDsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Er-Lalit/javaDsa/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0059-spiral-matrix-ii) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Er-Lalit/javaDsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
@@ -274,6 +294,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Er-Lalit/javaDsa/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Er-Lalit/javaDsa/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -330,6 +351,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Er-Lalit/javaDsa/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1367-linked-list-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1367-linked-list-in-binary-tree) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/Er-Lalit/javaDsa/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -349,6 +371,7 @@
 | [0460-lfu-cache](https://github.com/Er-Lalit/javaDsa/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -381,6 +404,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/Er-Lalit/javaDsa/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0543-diameter-of-binary-tree) |
@@ -388,6 +412,8 @@
 | [0687-longest-univalue-path](https://github.com/Er-Lalit/javaDsa/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1367-linked-list-in-binary-tree) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Er-Lalit/javaDsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -399,6 +425,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/Er-Lalit/javaDsa/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0543-diameter-of-binary-tree) |
@@ -406,6 +433,7 @@
 | [0687-longest-univalue-path](https://github.com/Er-Lalit/javaDsa/tree/master/0687-longest-univalue-path) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Er-Lalit/javaDsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Union-Find
@@ -446,4 +474,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Er-Lalit/javaDsa/tree/master/0207-course-schedule) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Er-Lalit/javaDsa/tree/master/0319-bulb-switcher) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

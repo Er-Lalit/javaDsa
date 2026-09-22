@@ -32,6 +32,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Er-Lalit/javaDsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/2926-maximum-balanced-subsequence-sum) |
@@ -225,6 +226,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 ## Trie
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1367-linked-list-in-binary-tree) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Er-Lalit/javaDsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
@@ -267,6 +270,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -367,6 +371,7 @@
 | [0460-lfu-cache](https://github.com/Er-Lalit/javaDsa/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -408,6 +413,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1367-linked-list-in-binary-tree) |
+| [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Er-Lalit/javaDsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree

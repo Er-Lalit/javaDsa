@@ -193,6 +193,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-special-binary-string](https://github.com/Er-Lalit/javaDsa/tree/master/0761-special-binary-string) |
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -273,6 +274,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -419,6 +421,7 @@
 | [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Er-Lalit/javaDsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -440,6 +443,7 @@
 | [1367-linked-list-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Er-Lalit/javaDsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |

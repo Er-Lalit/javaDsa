@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Er-Lalit/javaDsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
@@ -93,6 +94,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Er-Lalit/javaDsa/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0140-word-break-ii) |
 | [0526-beautiful-arrangement](https://github.com/Er-Lalit/javaDsa/tree/master/0526-beautiful-arrangement) |
@@ -120,6 +122,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Er-Lalit/javaDsa/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Er-Lalit/javaDsa/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Er-Lalit/javaDsa/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Er-Lalit/javaDsa/tree/master/0072-edit-distance) |
@@ -489,5 +492,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Er-Lalit/javaDsa/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

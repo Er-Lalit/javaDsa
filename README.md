@@ -263,6 +263,7 @@
 | [0687-longest-univalue-path](https://github.com/Er-Lalit/javaDsa/tree/master/0687-longest-univalue-path) |
 | [0785-is-graph-bipartite](https://github.com/Er-Lalit/javaDsa/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1367-linked-list-in-binary-tree) |
 | [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
@@ -279,6 +280,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Er-Lalit/javaDsa/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -457,6 +459,7 @@
 | [0547-number-of-provinces](https://github.com/Er-Lalit/javaDsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Er-Lalit/javaDsa/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Er-Lalit/javaDsa/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 ## Graph Theory
 |  |
@@ -466,6 +469,7 @@
 | [0547-number-of-provinces](https://github.com/Er-Lalit/javaDsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Er-Lalit/javaDsa/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Er-Lalit/javaDsa/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 ## String Matching
 |  |

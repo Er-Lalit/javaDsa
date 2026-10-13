@@ -25,6 +25,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Er-Lalit/javaDsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0875-koko-eating-bananas](https://github.com/Er-Lalit/javaDsa/tree/master/0875-koko-eating-bananas) |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Er-Lalit/javaDsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Er-Lalit/javaDsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
@@ -137,6 +138,7 @@
 | [0647-palindromic-substrings](https://github.com/Er-Lalit/javaDsa/tree/master/0647-palindromic-substrings) |
 | [0761-special-binary-string](https://github.com/Er-Lalit/javaDsa/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Er-Lalit/javaDsa/tree/master/0796-rotate-string) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Er-Lalit/javaDsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Er-Lalit/javaDsa/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/Er-Lalit/javaDsa/tree/master/1106-parsing-a-boolean-expression) |
@@ -454,6 +456,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Er-Lalit/javaDsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Er-Lalit/javaDsa/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Er-Lalit/javaDsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 ## Graph Theory
 |  |
@@ -462,6 +465,7 @@
 | [0210-course-schedule-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Er-Lalit/javaDsa/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Er-Lalit/javaDsa/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Er-Lalit/javaDsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 ## String Matching
 |  |

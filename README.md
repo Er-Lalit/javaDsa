@@ -268,6 +268,7 @@
 | [1367-linked-list-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1367-linked-list-in-binary-tree) |
 | [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Er-Lalit/javaDsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Er-Lalit/javaDsa/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -283,6 +284,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Er-Lalit/javaDsa/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -461,6 +463,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/Er-Lalit/javaDsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Er-Lalit/javaDsa/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -471,6 +474,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/Er-Lalit/javaDsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Er-Lalit/javaDsa/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## String Matching
 |  |
 | ------- |

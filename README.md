@@ -29,6 +29,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Er-Lalit/javaDsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Er-Lalit/javaDsa/tree/master/1019-next-greater-node-in-linked-list) |
 | [1048-longest-string-chain](https://github.com/Er-Lalit/javaDsa/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Er-Lalit/javaDsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
@@ -116,6 +117,7 @@
 | [0054-spiral-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Er-Lalit/javaDsa/tree/master/0059-spiral-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## String
@@ -283,6 +285,7 @@
 | [0743-network-delay-time](https://github.com/Er-Lalit/javaDsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Er-Lalit/javaDsa/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |

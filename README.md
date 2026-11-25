@@ -33,6 +33,7 @@
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Er-Lalit/javaDsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1472-design-browser-history](https://github.com/Er-Lalit/javaDsa/tree/master/1472-design-browser-history) |
+| [1631-path-with-minimum-effort](https://github.com/Er-Lalit/javaDsa/tree/master/1631-path-with-minimum-effort) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -119,6 +120,7 @@
 | [0980-unique-paths-iii](https://github.com/Er-Lalit/javaDsa/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Er-Lalit/javaDsa/tree/master/1219-path-with-maximum-gold) |
+| [1631-path-with-minimum-effort](https://github.com/Er-Lalit/javaDsa/tree/master/1631-path-with-minimum-effort) |
 | [2596-check-knight-tour-configuration](https://github.com/Er-Lalit/javaDsa/tree/master/2596-check-knight-tour-configuration) |
 ## String
 |  |
@@ -269,6 +271,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1367-linked-list-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Er-Lalit/javaDsa/tree/master/1631-path-with-minimum-effort) |
 | [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Er-Lalit/javaDsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Er-Lalit/javaDsa/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -288,6 +291,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Er-Lalit/javaDsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/Er-Lalit/javaDsa/tree/master/1631-path-with-minimum-effort) |
 | [1993-operations-on-tree](https://github.com/Er-Lalit/javaDsa/tree/master/1993-operations-on-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Er-Lalit/javaDsa/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -307,6 +311,7 @@
 | [0410-split-array-largest-sum](https://github.com/Er-Lalit/javaDsa/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Er-Lalit/javaDsa/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Er-Lalit/javaDsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1631-path-with-minimum-effort](https://github.com/Er-Lalit/javaDsa/tree/master/1631-path-with-minimum-effort) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Er-Lalit/javaDsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Er-Lalit/javaDsa/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Greedy
@@ -398,6 +403,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Er-Lalit/javaDsa/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/Er-Lalit/javaDsa/tree/master/0355-design-twitter) |
 | [0743-network-delay-time](https://github.com/Er-Lalit/javaDsa/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Er-Lalit/javaDsa/tree/master/1631-path-with-minimum-effort) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -469,6 +475,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/Er-Lalit/javaDsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Er-Lalit/javaDsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Er-Lalit/javaDsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/Er-Lalit/javaDsa/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Er-Lalit/javaDsa/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
@@ -533,4 +540,5 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Er-Lalit/javaDsa/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Er-Lalit/javaDsa/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
